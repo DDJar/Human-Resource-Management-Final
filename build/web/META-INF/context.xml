@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/AssignmentPrj301">
+<Resource auth="Container" 
+            driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" 
+            name="jdbc/mydb"  
+            type="javax.sql.DataSource" 
+            url="jdbc:sqlserver://localhost:1433;databaseName=HR_Management;" 
+            username="sa"
+            password="12345"/>
+</Context>
