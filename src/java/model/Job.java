@@ -11,7 +11,6 @@ import java.sql.Date;
  * @author ASUS-PRO
  */
 public class Job {
-    
    private int jid;
     private String jobName;
     private int minsalary,maxsalary;
