@@ -17,7 +17,6 @@ public class Job {
 
     public Job() {
     }
-
     public Job(int jid, String jobName, int minsalary, int maxsalary) {
         this.jid = jid;
         this.jobName = jobName;
